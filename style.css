@@ -74,3 +74,15 @@ h2 {
     box-shadow: 10px 10px 40px gray;
 
 }
+
+#blue-border {
+    border-left: 7px solid blue;
+}
+
+#tomato-border {
+    border-left: 7px solid tomato;
+}
+
+footer p {
+    text-align: center;
+}
